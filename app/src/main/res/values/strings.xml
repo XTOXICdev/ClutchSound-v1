@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VOICE MODE FFMEDG</string>
+    <string name="quick_slots_title">Gaming Quick Slots</string>
+    <string name="sound_library_title">Sound Library</string>
+    <string name="routing_guide_title">Game Audio Routing</string>
+    <string name="overlay_service_running">Floating Soundboard active</string>
+</resources>
